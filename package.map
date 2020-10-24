@@ -1,0 +1,2 @@
+clang@8 : ubuntu@? : clang-8
+clang@8 : brew     : llvm@8
